@@ -4,7 +4,7 @@ tableextension 50046 ItemVendor99 extends "Item Vendor"
     {
         field(50046; "Date dernière Commande"; Date)
         {
-            Caption = 'Date derniére Commande';
+            Caption = 'Date dernière Commande';
             DataClassification = ToBeClassified;
             Description = 'Fournisseur_Articles LN 19/06/24';
         }
